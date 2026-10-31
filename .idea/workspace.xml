@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2b6a749-e725-4cde-b566-e2c958ecac9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AerialGPSSim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000220550109" />
+      <entry key="S5" value="1.0060025196363545" />
+      <entry key="S10" value="1.2149562839480628" />
+      <entry key="S30" value="4.663667463798559" />
+      <entry key="S60" value="10.030457835862014" />
+      <entry key="M2" value="16.117659769629952" />
+      <entry key="M5" value="22.26620300019355" />
+      <entry key="M10" value="26.429160052725184" />
+      <entry key="M15" value="30.848943663920018" />
+      <entry key="M30" value="43.39241843438871" />
+      <entry key="H1" value="57.73414016028486" />
+      <entry key="H2" value="68.87292502948826" />
+      <entry key="H4" value="75.85590891293081" />
+      <entry key="D1" value="82.55392833165955" />
+      <entry key="W1" value="83.7911314036731" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="8.813433854800714E-171" />
+      <entry key="S10" value="9.387989057727278E-86" />
+      <entry key="S30" value="4.5448985302721804E-29" />
+      <entry key="S60" value="6.741586260126156E-15" />
+      <entry key="M2" value="8.210716326926758E-8" />
+      <entry key="M5" value="0.001464712605464622" />
+      <entry key="M10" value="0.03827156392760322" />
+      <entry key="M15" value="0.11356664771799423" />
+      <entry key="M30" value="0.33699650994927866" />
+      <entry key="H1" value="0.5805140049553312" />
+      <entry key="H2" value="0.761914696639546" />
+      <entry key="H4" value="0.8728772517596877" />
+      <entry key="D1" value="0.9775947544200854" />
+      <entry key="W1" value="0.9967680830163184" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.9876008614453725" />
+      <entry key="S2" value="0.9968859164539439" />
+      <entry key="S5" value="1.00471537042839" />
+      <entry key="S10" value="1.2130918784555664" />
+      <entry key="S30" value="4.649318268107135" />
+      <entry key="S60" value="10.00827979550209" />
+      <entry key="M2" value="16.09677103028922" />
+      <entry key="M5" value="22.255066030774135" />
+      <entry key="M10" value="26.459786790844745" />
+      <entry key="M15" value="30.956599520502973" />
+      <entry key="M30" value="43.7253920352874" />
+      <entry key="H1" value="58.312054565398384" />
+      <entry key="H2" value="69.63331489138041" />
+      <entry key="H4" value="76.72795368209256" />
+      <entry key="D1" value="83.53137318201364" />
+      <entry key="W1" value="84.78787777800915" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LTNVwBWICWR4JCytuUiUlLcJIm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2b6a749-e725-4cde-b566-e2c958ecac9a" name="Changes" comment="" />
+      <created>1793474124700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793474124700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
