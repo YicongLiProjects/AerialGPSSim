@@ -1,4 +1,5 @@
 from tkinter import *
+from tkinter.simpledialog import askstring, askinteger
 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
@@ -18,6 +19,17 @@ frm.pack()
 root.geometry("800x600")
 root.resizable(width=False, height=False)
 
+# GUI methods
+m = None # MAVLink device
+def connect_mavlink():
+    mode = askstring("Connection mode", "What is the connection mode (TCP or UDP)?")
+    ip_addr = askstring("IP address", "What is the IP address?")
+    port_nbr = askinteger("Port number", "What is the port number?")
+    if mode is not None and ip_addr is not None and port_nbr is not None:
+        m = connect(mode, ip_addr, port_nbr)
+
+def disconnect_mavlink():
+    disconnect(m)
 
 # Define UI components below
 fig = Figure(figsize=(8, 6), dpi=100)
@@ -25,8 +37,8 @@ fig = Figure(figsize=(8, 6), dpi=100)
 # Menu bar methods
 menubar = Menu(root)
 
-menubar.add_command(label="Connect", command=connect)
-menubar.add_command(label="Disconnect", command=disconnect)
+menubar.add_command(label="Connect", command=connect_mavlink)
+menubar.add_command(label="Disconnect", command=disconnect_mavlink)
 menubar.add_command(label="Start", command=start)
 menubar.add_command(label="Stop", command=stop)
 menubar.add_command(label="Reset", command=reset)
