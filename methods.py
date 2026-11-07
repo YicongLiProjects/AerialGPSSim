@@ -34,7 +34,7 @@ def tick(running: bool, root_gui, con):
 def send_heartbeat(con):
     con.mav.heartbeat_send(
         mavutil.mavlink.MAV_TYPE_QUADROTOR,
-        mavutil.mavlink.MAV_AUTOPILOT.ARDUPILOTMEGA,
+        mavutil.mavlink.MAV_AUTOPILOT_ARDUPILOTMEGA,
         0, 0,
         mavutil.mavlink.MAV_STATE_ACTIVE
     )
