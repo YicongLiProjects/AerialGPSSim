@@ -167,9 +167,9 @@ class App:
 
     # ---- Menu actions -----------------------------------------------------
     def connect_mavlink(self):
-        mode = askstring("Connection mode", "What is the connection mode (TCP or UDP)?")
-        ip_addr = askstring("IP address", "What is the IP address?")
-        port_nbr = askinteger("Port number", "What is the port number?")
+        mode = askstring("Connection mode", "What is the connection mode (TCP or UDP)?", parent=self.root)
+        ip_addr = askstring("IP address", "What is the IP address?", parent=self.root)
+        port_nbr = askinteger("Port number", "What is the port number?", parent=self.root)
         if mode is not None and ip_addr is not None and port_nbr is not None:
             self.stop_sim()
             self.c = connect(mode, ip_addr, port_nbr)
