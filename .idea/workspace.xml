@@ -38,61 +38,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000018" />
-      <entry key="MS500" value="1.001124610641075" />
-      <entry key="S2" value="1.2465886321896256" />
-      <entry key="S5" value="1.953388998812703" />
-      <entry key="S10" value="3.4657575245890753" />
-      <entry key="S30" value="10.541097240595295" />
-      <entry key="S60" value="18.507819725981857" />
-      <entry key="M2" value="34.054504011641185" />
-      <entry key="M5" value="78.0602618794299" />
-      <entry key="M10" value="121.81093727607971" />
-      <entry key="M15" value="145.1523514537055" />
-      <entry key="M30" value="175.99558225293563" />
-      <entry key="H1" value="206.04418372764584" />
-      <entry key="H2" value="279.6952598684658" />
-      <entry key="H4" value="407.8910921923937" />
-      <entry key="D1" value="668.6515022218658" />
-      <entry key="W1" value="740.0439491180721" />
+      <entry key="MS100" value="1.85304720110645" />
+      <entry key="MS500" value="2.3302685728309123" />
+      <entry key="S2" value="2.851211237617151" />
+      <entry key="S5" value="3.7443951524827646" />
+      <entry key="S10" value="5.254485713665326" />
+      <entry key="S30" value="11.386784284923035" />
+      <entry key="S60" value="17.601979523042825" />
+      <entry key="M2" value="23.48527307441506" />
+      <entry key="M5" value="32.618549385926286" />
+      <entry key="M10" value="46.00820545039334" />
+      <entry key="M15" value="55.50698782815246" />
+      <entry key="M30" value="70.15258691801525" />
+      <entry key="H1" value="80.39710058301594" />
+      <entry key="H2" value="92.54651829463111" />
+      <entry key="H4" value="154.8517542113994" />
+      <entry key="D1" value="716.5517359269747" />
+      <entry key="W1" value="1043.8035468761336" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="5.895737738390442E-88" />
-      <entry key="MS500" value="3.581851952133699E-18" />
-      <entry key="S2" value="4.3503771366694416E-5" />
-      <entry key="S5" value="0.018005731229620348" />
-      <entry key="S10" value="0.13418676205592237" />
-      <entry key="S30" value="0.5229456612042791" />
-      <entry key="S60" value="0.8208718831692493" />
-      <entry key="M2" value="1.192928090058308" />
-      <entry key="M5" value="1.794443621334037" />
-      <entry key="M10" value="2.236619440276793" />
-      <entry key="M15" value="2.444112084891883" />
-      <entry key="M30" value="2.713539747332287" />
-      <entry key="H1" value="3.3651662088668703" />
-      <entry key="H2" value="5.940986011103703" />
-      <entry key="H4" value="10.441903715444914" />
-      <entry key="D1" value="19.229509058435475" />
-      <entry key="W1" value="21.576243703274965" />
+      <entry key="MS100" value="4.77604410795983E-86" />
+      <entry key="MS500" value="8.626083659201825E-18" />
+      <entry key="S2" value="5.4194371722727174E-5" />
+      <entry key="S5" value="0.01975937587201229" />
+      <entry key="S10" value="0.15117573655149869" />
+      <entry key="S30" value="0.8357875693388708" />
+      <entry key="S60" value="1.5027586393422772" />
+      <entry key="M2" value="2.0941327177941487" />
+      <entry key="M5" value="2.5895197273714747" />
+      <entry key="M10" value="2.7856572265676447" />
+      <entry key="M15" value="2.8549927355162072" />
+      <entry key="M30" value="2.926417393560496" />
+      <entry key="H1" value="2.9641423085545067" />
+      <entry key="H2" value="3.0785216209348274" />
+      <entry key="H4" value="4.270755117825494" />
+      <entry key="D1" value="18.301889296220683" />
+      <entry key="W1" value="27.089469797396927" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9526379980439373" />
-      <entry key="MS500" value="0.9907950852548629" />
-      <entry key="S2" value="1.2058858076535668" />
-      <entry key="S5" value="1.9158163849432746" />
-      <entry key="S10" value="3.5272447781069296" />
-      <entry key="S30" value="10.986054353236382" />
-      <entry key="S60" value="19.25368983270251" />
-      <entry key="M2" value="35.16853999740957" />
-      <entry key="M5" value="79.7815241257336" />
-      <entry key="M10" value="123.99189595978262" />
-      <entry key="M15" value="147.5527330031642" />
-      <entry key="M30" value="178.68290427954895" />
-      <entry key="H1" value="209.39384432661126" />
-      <entry key="H2" value="285.62517608195014" />
-      <entry key="H4" value="418.3245723687596" />
-      <entry key="D1" value="687.8786446279044" />
-      <entry key="W1" value="761.6198174901526" />
+      <entry key="MS100" value="0.8946258321877346" />
+      <entry key="MS500" value="1.6917370813811488" />
+      <entry key="S2" value="2.6096929514960046" />
+      <entry key="S5" value="3.596230278439954" />
+      <entry key="S10" value="5.242950339120263" />
+      <entry key="S30" value="12.075917382572726" />
+      <entry key="S60" value="18.989178051267945" />
+      <entry key="M2" value="25.502494389762926" />
+      <entry key="M5" value="35.1683992357012" />
+      <entry key="M10" value="48.76910141833638" />
+      <entry key="M15" value="58.34324920139592" />
+      <entry key="M30" value="73.0679425126778" />
+      <entry key="H1" value="83.35511669497166" />
+      <entry key="H2" value="95.62150442166845" />
+      <entry key="H4" value="159.11931831519075" />
+      <entry key="D1" value="734.8509930794193" />
+      <entry key="W1" value="1070.8924677145226" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -108,6 +108,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.methods.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
@@ -151,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793557203831</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="completed connect &amp; disconnect methods">
+      <option name="closed" value="true" />
+      <created>1793824945614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1793824945614</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
     <MESSAGE value="Initiated repository and created UI and method files" />
     <MESSAGE value="Finished UI" />
     <MESSAGE value="Finished UI and created template for methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished UI and created template for methods" />
+    <MESSAGE value="completed connect &amp; disconnect methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed connect &amp; disconnect methods" />
   </component>
 </project>
